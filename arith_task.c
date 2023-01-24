@@ -10,4 +10,9 @@ int main(){
         int c=a-b;
         printf("Subtraction of %d - %d =%d \n",a,b,c);
 	return 0;
+	
+	//mul
+	int c=a*b;
+        printf("Multiplication of %d * %d =%d \n",a,b,c);
+	return 0;
 }
